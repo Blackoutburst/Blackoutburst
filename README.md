@@ -6,6 +6,8 @@ I do have so C knowledge but I don't really use it as I found Java more convenie
 
 Currently working on spigot/craftbukkit plugins in the hope of working at Hypixel, wish me luck !
 
+I speak French and English and no i'm not a girl
+
 ### Random GitHub Stats
 
 <div align="center">
