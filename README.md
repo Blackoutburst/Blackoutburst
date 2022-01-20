@@ -1,7 +1,6 @@
 ## Welcome to my GitHub profile ![pog](https://cdn.discordapp.com/emojis/930577246249418782.gif?size=24&quality=lossless)
 
-I'm Blackoutburst, just call me Blackout!\
-I'm a Java developer, most of my projects are Minecraft or video game related
+I'm a Java developer, most of my projects are Minecraft or video game related!
 
 Languages: French/English\
 Pronouns: He/Him
