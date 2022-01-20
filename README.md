@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile 💜
+## Welcome to my GitHub profile ![pog](https://cdn.discordapp.com/emojis/930577246249418782.gif?size=24&quality=lossless)
 
 I'm Blackoutburst, just call me Blackout!\
 I'm a Java developer, most of my projects are Minecraft or video game related
@@ -8,7 +8,7 @@ Pronouns: He/Him
 
 - [ ] Goal: get hired [@HypixelDev](https://github.com/HypixelDev) 😅
 
-Currently working on Hypixel community projects such as [Quake](https://github.com/Blackoutburst/QuakeCraft) and [Hole in the Wall](https://github.com/Blackoutburst/HitW-plugin) ![pog](https://cdn.discordapp.com/emojis/930577246249418782.gif?size=16&quality=lossless)
+Currently working on Hypixel community projects such as [Quake](https://github.com/Blackoutburst/QuakeCraft) and [Hole in the Wall](https://github.com/Blackoutburst/HitW-plugin)
 
 Best way to contact me: `Blackoutburst#9593`\
 *(If I'm awake it shouldn't take more than 10 minutes for me to answer  on discord)*
