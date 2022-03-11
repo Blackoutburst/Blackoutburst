@@ -5,12 +5,11 @@ I'm a Java developer, most of my projects are Minecraft or video game related!
 Languages: French/English\
 Pronouns: He/Him
 
-- [ ] Goal: get hired [@HypixelDev](https://github.com/HypixelDev) 😅
+- [ ] Goal: get hired [@HypixelDev](https://github.com/HypixelDev)
 
 Currently working on Hypixel community projects such as [Quake](https://github.com/Blackoutburst/QuakeCraft) and [Hole in the Wall](https://github.com/Blackoutburst/HitW-plugin)
 
 Best way to contact me: `Blackoutburst#7021`\
-*(If I'm awake it shouldn't take more than 10 minutes for me to answer  on discord)*
 
 <div align="center">
   <h2>Random GitHub Stats</h2>
