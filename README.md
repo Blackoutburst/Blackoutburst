@@ -9,7 +9,7 @@ Pronouns: He/Him
 
 Currently working on Hypixel community projects such as [Quake](https://github.com/Blackoutburst/QuakeCraft) and [Hole in the Wall](https://github.com/Blackoutburst/HitW-plugin)
 
-Best way to contact me: `Blackoutburst#7021`\
+Best way to contact me: `Blackoutburst#7021`
 
 <div align="center">
   <h2>Random GitHub Stats</h2>
