@@ -7,7 +7,7 @@ Pronouns: He/Him
 
 - [ ] Goal: get hired [@HypixelDev](https://github.com/HypixelDev)
 
-Currently working on Hypixel community projects such as [Quake](https://github.com/Blackoutburst/QuakeCraft) and [Hole in the Wall](https://github.com/Blackoutburst/HitW-plugin)
+Currently working on Hypixel community projects and projects request
 
 Best way to contact me: `Blackoutburst#7021`
 
