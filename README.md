@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile ![pog](https://cdn.discordapp.com/emojis/930577246249418782.gif?size=24&quality=lossless)
+## Welcome to my GitHub profile
 
 I'm a Java developer, most of my projects are Minecraft or video game related!
 
