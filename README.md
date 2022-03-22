@@ -14,8 +14,8 @@ Best way to contact me: `Blackoutburst#7021`
 <div align="center">
   <h2>Random GitHub Stats</h2>
   
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Blackoutburst&count_private=true&show_icons=true&include_all_commits=true&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,400047,2d0047" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackoutburst&layout=compact&border_color=bf00ff&title_color=bf00ff&text_color=d4b5ff&icon_color=e600ff&bg_color=DEG,2d0047,400047" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Blackoutburst&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&title_color=8a6dc5&text_color=70458f&icon_color=7a51b5&bg_color=0d1117" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackoutburst&layout=compact&hide_border=true&title_color=8a6dc5&text_color=70458f&icon_color=7a51b5&bg_color=0d1117" />
   
   [<img src="https://img.shields.io/badge/Patreon-orange">](https://www.patreon.com/Blackoutburst)
   [<img src="https://img.shields.io/badge/Website-blueviolet">](https://www.blackoutburst.com/)
