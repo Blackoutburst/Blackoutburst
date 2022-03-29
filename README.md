@@ -20,4 +20,7 @@ Best way to contact me: `Blackoutburst#7021`
   [<img src="https://img.shields.io/badge/Patreon-orange?style=for-the-badge&logo=patreon">](https://www.patreon.com/Blackoutburst)
   [<img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge">](https://www.blackoutburst.com/)
   [<img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube">](https://www.youtube.com/channel/UCOmdNokN6UVeNhDfB61B_0A)
+
+  [<img src="https://img.shields.io/badge/osu!-cc5288?style=for-the-badge&logo=osu&logoColor=white">](https://osu.ppy.sh/users/5928457)
+  [<img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=steam">](https://steamcommunity.com/id/blackoutburst/)
 </div>
