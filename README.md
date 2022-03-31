@@ -21,7 +21,7 @@
 
   <h2>Socials</h2>
   
-  [<img src="https://img.shields.io/badge/Blackoutburst%237021-7289da?style=for-the-badge&logo=discord&logoColor=white">]()
+  [<img src="https://img.shields.io/badge/Blackoutburst%237021-7289da?style=for-the-badge&logo=discord&logoColor=white">](#)
   [<img src="https://img.shields.io/badge/Patreon-orange?style=for-the-badge&logo=patreon&logoColor=white">](https://www.patreon.com/Blackoutburst)
   [<img src="https://img.shields.io/badge/Website-blueviolet?style=for-the-badge">](https://www.blackoutburst.com/)
 
