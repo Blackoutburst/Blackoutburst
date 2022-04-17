@@ -15,7 +15,7 @@
   <h2>GitHub Stats</h2>
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Blackoutburst&show_icons=true&hide=commits&hide_border=true&title_color=8a6dc5&text_color=70458f&icon_color=7a51b5&bg_color=00000000" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackoutburst&layout=compact&hide_border=true&title_color=8a6dc5&text_color=70458f&icon_color=7a51b5&bg_color=00000000&langs_count=6" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackoutburst&layout=compact&hide_border=true&title_color=8a6dc5&text_color=70458f&icon_color=7a51b5&bg_color=00000000&langs_count=6" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Blackoutburst&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&dates=70458F&sideNums=8A6DC5&currStreakLabel=70458F&sideLabels=70458F&ring=8A6DC5&fire=70458F&currStreakNum=70458F&stroke=00000000)](https://git.io/streak-stats)
 
