@@ -5,11 +5,10 @@
   
   <h2>About</h2>
   <p>
-    Hello, I'm Blackoutburst, I mainly work with <b>Java on Minecraft / Spigot project</b>!<br>
+    Hello, I'm Blackoutburst, I mainly work with <b>Java and Kotlin on community projects</b>!<br>
     I speak <b>French and English</b> but I rather use English online this way everyone can understand<br>
     <br>
-    I'm currently working on my own community project and currently <b>available for hire</b>!<br>
-    You can find some of my stats and project below!
+    You can find some of my stats and projects below!
   </p>
   
   <h2>GitHub Stats</h2>
