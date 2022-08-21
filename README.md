@@ -1,14 +1,11 @@
-![banner](https://user-images.githubusercontent.com/30992311/160970089-b0e61743-79e3-4938-8e07-847857cf95e7.png)
-
-
 <div align="center">
   
   <h2>About</h2>
   <p>
-    Hello, I'm Blackoutburst, I mainly work with <b>Java and Kotlin on community projects</b>!<br>
-    I speak <b>French and English</b> but I rather use English online this way everyone can understand<br>
+    Hello, I'm Blackoutburst, I'm a lead developer<br>
+    I speak French and English<br>
     <br>
-    You can find some of my stats and projects below!
+    You can find some of my projects below!
   </p>
   
   <h2>GitHub Stats</h2>
