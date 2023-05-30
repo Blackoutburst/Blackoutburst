@@ -1,15 +1,4 @@
-<div align="center">
-  
-  <h2>About</h2>
-  <p>
-    Hello, I'm Blackoutburst, I'm a lead developer<br>
-    I speak French and English<br>
-    <br>
-    You can find some of my projects below!
-  </p>
-  
-  <h2>GitHub Stats</h2>
-  
+<div align="center">  
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Blackoutburst&show_icons=true&include_all_commits=true&hide=commits&count_private=true&hide_border=true&title_color=8a6dc5&text_color=70458f&icon_color=7a51b5&bg_color=00000000" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackoutburst&layout=compact&hide_border=true&title_color=8a6dc5&text_color=70458f&icon_color=7a51b5&bg_color=00000000&langs_count=6" />
 
