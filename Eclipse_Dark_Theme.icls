@@ -1,12 +1,8 @@
 <scheme name="Eclipse Dark Theme" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2024.2.0.1.0.0</property>
+    <property name="ideVersion">2024.2.0.2.0.0</property>
   </metaInfo>
-  <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="2b2d30" />
-    <option name="TEARLINE_COLOR" value="2b2d30" />
-  </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
@@ -175,29 +171,42 @@
         <option name="FOREGROUND" value="cdf668" />
       </value>
     </option>
-    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
-      <value>
-        <option name="BACKGROUND" value="2b2d30" />
-      </value>
-    </option>
     <option name="JAVA_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="db771d" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="1eb540" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="66e1f8" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="a7ec21" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f2f250" />
+      </value>
+    </option>
     <option name="KOTLIN_PACKAGE_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="a7ec21" />
-        <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_SUSPEND_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="a7ec21" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="a7ec21" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
