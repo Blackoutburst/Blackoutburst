@@ -148,7 +148,7 @@ public class Reflector {
      * <p>
      * Allow you to manually set any class field value.<br>
      * <br>
-     * In many classes is much safer to use class setter to do that, but if they are missing, or you need to update one specific value this is the method you need.<br>
+     * In many cases it's much safer to use class setter to do that, but if they are missing, or need to update one specific value, this is the method you need.<br>
      * <br>
      * With this method you can also access and set private/protected fields.<br>
      * </p>
