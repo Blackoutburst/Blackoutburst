@@ -62,6 +62,11 @@ syntax.add {
     --   this excludes U32/I8/etc. (no underscore) which are already keyword2
     { pattern = "[%u][%u%d]*_[%u%d_]*",  type = "literal" },
 
+    -- PascalCase / mixed-case external types  (GLFWwindow, VkBuffer, VkDeviceSize …)
+    --   catch-all for any uppercase-starting identifier not already matched above
+    --   by this point namespaces (before .), post-dot types, and ALL_CAPS are handled
+    { pattern = "[%u][%w_]*",  type = "struct" },
+
     -- Function calls  — must come before plain symbol
     { pattern = "[%a_][%w_]*%f[(]",  type = "function" },
 
