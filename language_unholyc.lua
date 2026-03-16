@@ -53,9 +53,8 @@ syntax.add {
     --   %f[%.]  frontier pattern: matches only when the next char is a dot
     { pattern = "[%u][%w_]*%f[%.]",  type = "namespace" },
 
-    -- Uppercase type name after namespace dot:  "Cube.It"  ->  the "It" part
-    --   %.  matches the literal dot, then ()  splits the token, then uppercase ident
-    { pattern = "%.()[%u][%w_]*",  type = { "operator", "struct" } },
+        -- Function calls  — must come before plain symbol
+    { pattern = "[%a_][%w_]*%f[(]",  type = "function" },
 
     -- SCREAMING_SNAKE_CASE constants  (VK_BUFFER_USAGE_…, GLFW_KEY_W, …)
     --   must start uppercase and contain at least one underscore
@@ -67,11 +66,12 @@ syntax.add {
     --   by this point namespaces (before .), post-dot types, and ALL_CAPS are handled
     { pattern = "[%u][%w_]*",  type = "struct" },
 
+    -- Uppercase type name after namespace dot:  "Cube.It"  ->  the "It" part
+    --   %.  matches the literal dot, then ()  splits the token, then uppercase ident
+    { pattern = "%.()[%u][%w_]*",  type = { "operator", "struct" } },
+
     -- _t suffix types  (pthread_mutex_t, uint32_t, size_t …)
     { pattern = "[%a_][%w_]*_t%f[^%w_]",  type = "keyword2" },
-
-    -- Function calls  — must come before plain symbol
-    { pattern = "[%a_][%w_]*%f[(]",  type = "function" },
 
     -- Namespace / scope operator  ::
     { pattern = "::",                 type = "operator" },
