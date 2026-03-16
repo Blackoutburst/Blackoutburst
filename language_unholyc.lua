@@ -9,8 +9,8 @@ local common = require "core.common"
 
 -- Custom token type for namespace names.
 -- Change this hex color to whatever you like.
-style.syntax["namespace"] = { common.color "#c9794e" }
-style.syntax["struct"] = { common.color "#b2c94e" }
+style.syntax["namespace"] = { common.color "#ff772e" }
+style.syntax["struct"] = { common.color "#b9d918" }
 
 syntax.add {
   name    = "UnHolyC",
@@ -60,7 +60,7 @@ syntax.add {
     -- SCREAMING_SNAKE_CASE constants  (VK_BUFFER_USAGE_…, GLFW_KEY_W, …)
     --   must start uppercase and contain at least one underscore
     --   this excludes U32/I8/etc. (no underscore) which are already keyword2
-    { pattern = "[%u][%u%d]*_[%u%d_]*",  type = "literal" },
+    { pattern = "[%u][%u%d]*_[%u%d_]*",  type = "number" },
 
     -- PascalCase / mixed-case external types  (GLFWwindow, VkBuffer, VkDeviceSize …)
     --   catch-all for any uppercase-starting identifier not already matched above
