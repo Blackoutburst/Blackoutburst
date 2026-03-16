@@ -67,6 +67,9 @@ syntax.add {
     --   by this point namespaces (before .), post-dot types, and ALL_CAPS are handled
     { pattern = "[%u][%w_]*",  type = "struct" },
 
+    -- _t suffix types  (pthread_mutex_t, uint32_t, size_t …)
+    { pattern = "[%a_][%w_]*_t%f[^%w_]",  type = "keyword2" },
+
     -- Function calls  — must come before plain symbol
     { pattern = "[%a_][%w_]*%f[(]",  type = "function" },
 
