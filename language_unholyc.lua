@@ -120,6 +120,7 @@ syntax.add {
     ["class"]        = "keyword",
     ["typedef"]      = "keyword",
     ["namespace"]    = "keyword",
+    ["lambda"]       = "keyword",
     ["unused"]       = "keyword",
     ["template"]     = "keyword",
     ["typename"]     = "keyword",
