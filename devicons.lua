@@ -61,6 +61,8 @@ local extension_icons = {
   --[".v"] = {"#536B8A", ""}, [".vv"] = {"#536B8A", ""}, [".vsh"] = {"#536B8A", ""}, -- WIP: V
   [".vert"] = {"#5586a4", ""}, -- Vertex shader
   [".frag"] = {"#5586a4", ""}, -- Fragment shader
+  [".spv"] = {"#eb4034", ""}, -- Spirv shader
+  [".slang"] = {"#eb4034", ""}, -- Slang shader
   [".exe"] = {"#0178d4", ""}, -- Exe win32
   [".out"] = {"#ff9734", ""}, -- Exe posix
   [".asm"] = {"#DE002D", ""}, -- Assembly
@@ -69,7 +71,7 @@ local extension_icons = {
   [".clj"] = {"#91DC47", ""}, -- Clojure
   [".conf"] = { "#6d8086", "" }, [".cfg"] = { "#6d8086", "" },
   [".cpp"] = { "#519aba", "" }, [".hpp"] = { "#519aba", "" }, [".hh"] = { "#519aba", "" }, [".cc"] = { "#519aba", "" }, -- C++
-  [".uhc"] = { "#eb4034", "" }, [".uhh"] = { "#eb6b34", "" },
+  [".uhc"] = { "#eb4034", "" }, [".uhh"] = { "#eb6b34", "" }, -- UnholyC
   [".cr"] = { "#000000", "" }, -- Crystal
   [".cs"] = { "#596706", "" },  -- C#
   [".css"] = { "#563d7c", "" }, [".module.css"] = { "#563d7c", "" },
