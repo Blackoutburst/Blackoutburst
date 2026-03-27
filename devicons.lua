@@ -100,7 +100,7 @@ local extension_icons = {
   [".lisp"] = { "#FFFFFF", "" }, [".lsp"] = { "#FFFFFF", "" },
   [".lua"] = { "#51a0cf", "" },
   [".ly"] = {"#FC7DB0", ""}, -- Lilypond
-  [".md"]  = { "#519aba", "" }, [".mdx"]  = { "#519aba", "" }, -- Markdown
+  [".md"]  = { "#519aba", "" }, [".mdx"]  = { "#fcba03", "" }, -- Markdown
   [".ml"] = { "#EE750A", "" }, -- OCaml
   [".nim"] = { "#FFE953", "" }, [".nims"] = { "#FFE953", "" }, [".nimble"] = { "#FFE953", "" },
   [".nix"] = {"#7EB3DF", ""},
