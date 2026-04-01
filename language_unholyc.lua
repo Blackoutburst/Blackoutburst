@@ -91,6 +91,7 @@ syntax.add {
     ["namespace"]    = "keyword",
     ["lambda"]       = "keyword",
     ["unused"]       = "keyword",
+    ["deprecated"]   = "keyword",
     ["template"]     = "keyword",
     ["typename"]     = "keyword",
     ["using"]        = "keyword",
