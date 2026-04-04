@@ -90,6 +90,7 @@ syntax.add {
     ["typedef"]      = "keyword",
     ["namespace"]    = "keyword",
     ["lambda"]       = "keyword",
+    ["self"]       = "keyword",
     ["unused"]       = "keyword",
     ["deprecated"]   = "keyword",
     ["template"]     = "keyword",
