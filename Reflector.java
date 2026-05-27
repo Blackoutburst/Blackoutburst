@@ -133,7 +133,7 @@ public class Reflector {
      */
     public static Method getMethod(Class<?> classData, String methodName, Class<?>... args) {
         try {
-            final Method method = classData.getMethod(methodName, args);
+            final Method method = classData.getDeclaredMethod(methodName, args);
             method.setAccessible(true);
 
             return method;
